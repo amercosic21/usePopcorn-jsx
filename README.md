@@ -1,6 +1,6 @@
 # usePopcorn
 
-React movie application project inspired by IMDb. Allows users to browse, search, and explore movie details. The project demonstrates the use of hooks, state management and API integration to build a dynamic web application.
+React movie web application project inspired by IMDb. Allows users to browse, search, and explore movie details. The project demonstrates the use of hooks, state management and API integration to build a dynamic web application.
 
 # Getting Started with Create React App
 
